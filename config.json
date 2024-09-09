@@ -1,0 +1,11 @@
+{
+  "dimensions": {
+    "hauteur": 10,
+    "largeur": 10
+  },
+  "feux_initiaux": [
+    [3, 3],
+    [4, 4]
+  ],
+  "probabilite_propagation": 0.3
+}
